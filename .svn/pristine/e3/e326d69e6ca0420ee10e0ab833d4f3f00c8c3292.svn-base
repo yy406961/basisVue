@@ -1,0 +1,18 @@
+:root {
+    --border-color: #409eff;
+    --font-color: #0aaebf;
+    --con-size: 14px;
+    --sml-size: 12px;
+    --title-size: 16px;
+    --htitle-size: 26px;
+    --bg-color: rgba(1, 6, 22, 0.8);
+    --breadcrumb-color: rgba(255, 104, 10, 0.8);
+    /* form表单border颜色 */
+    --form-bdcolor: rgba(59, 232, 250, 0.7);
+    --form-bordercolor-hover:rgba(59, 232, 250,1);
+    --base-bdcolor: #e1e1e1;
+    /** 主色系 **/
+    --main-color: #3be8fa;
+    /*告警色系 */
+    --warn-color: #f4467a;
+}

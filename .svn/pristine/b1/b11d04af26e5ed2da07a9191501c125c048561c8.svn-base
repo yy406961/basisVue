@@ -1,0 +1,39 @@
+{
+  "name": "hainan-screens",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build --report",
+    "build-dev": "vue-cli-service build --dev",
+    "lint": "vue-cli-service lint",
+    "dist": "cd dist &&  python -m SimpleHTTPServer 3000"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dayjs": "^1.7.7",
+    "element-ui": "^2.4.9",
+    "font-awesome": "^4.7.0",
+    "js-cookie": "^2.2.0",
+    "lodash": "^4.17.11",
+    "nprogress": "^0.2.0",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-plugin-eslint": "^3.0.1",
+    "@vue/cli-service": "^3.0.1",
+    "@vue/eslint-config-prettier": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-vue-jsx": "4",
+    "eslint": "^5.8.0",
+    "eslint-config-yelingfeng": "^1.1.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "vue-class-component": "^6.3.2",
+    "vue-template-compiler": "^2.5.17"
+  }
+}

@@ -1,0 +1,6 @@
+# 页面 title 前缀
+VUE_APP_TITLE = HN
+
+
+# 系统名称
+VUE_APP_NAME = 海南省信息化成果可视化大屏

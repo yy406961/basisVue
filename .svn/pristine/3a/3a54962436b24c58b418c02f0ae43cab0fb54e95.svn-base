@@ -1,0 +1,2 @@
+VUE_APP_MOCK_URL=http://172.17.20.227:8080/mockjsdata/35/
+VUE_APP_WS_URL=/
